@@ -1,2 +1,2 @@
-# My_DH
-Repository for my digital humanities class project
+# Individual Project
+150-250 word abstract of research.
